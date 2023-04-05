@@ -4,7 +4,7 @@
 - [Overview](#Overview)
 - [Built With](#👨🏽‍💻-Build-With-👨🏽‍💻)
 - [How To Use](#🚀-How-To-Use-🚀)
-- [Contact](#📧-Contact-📧)
+- [Contact](#Contact)
 
 ## ✨ Overview ✨
 
@@ -29,7 +29,7 @@ $ npm install
 $ npm start
 ```
 
-## 📧 Contact 📧
+## Contact
 - Website [Portfolio](https://portfolioedd.netlify.app/)
 - GitHub [@JAMESBLUM](https://{https://github.com/JAMESBLUM})
 - Linkedin [Edgar Rodríguez](https://www.linkedin.com/in/edgarrv/)
