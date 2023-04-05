@@ -1,10 +1,6 @@
 <h1 align="center">💻 Edgar Rodríguez | Portfolio 💻</h1>
 
-# 📋 Table Content 📋 
-- [Overview](#overview)
-- [Built With](#built-with)
-- [How To Use](#contact)
-- [Contact](#contact)
+## ✨ Overview ✨
 
 ## 👨🏽‍💻 Build With 👨🏽‍💻
 <p>
